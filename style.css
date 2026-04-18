@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.login-box {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #dbdbdb;
+  background: white;
+  text-align: center;
+}
+
+.login-box h1 {
+  font-family: 'Billabong', cursive;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #dbdbdb;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #0095f6;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.or {
+  margin: 10px 0;
+}
